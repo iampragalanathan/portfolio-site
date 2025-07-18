@@ -691,6 +691,7 @@ body.dark-theme {
   color: var(--first-color);
 }
 
+
 /*=============== SERVICES ===============*/
 .services__container {
   grid-template-columns: 250px;
