@@ -260,14 +260,16 @@ body.dark-theme {
 .nav__toggle {
   width: 32px;
   height: 32px;
-  background-color: var(--black-color);
-  color: var(--white-color);
+  /* background-color: var(--black-color);
+  color: var(--white-color); */
   display: grid;
   place-items: center;
 }
 
 .nav__logo-circle {
-  border-radius: 50%;
+  border-radius: 100%;
+  background-image: url("/Project-Responsive-Portfolio-Website-pragalanathan/responsive-portfolio-website-rian/assets/img/favicon.webp");
+  background-size: cover;
 }
 
 .nav__toggle {
