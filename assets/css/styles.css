@@ -579,9 +579,18 @@ body.dark-theme {
   align-self: center;
 }
 
+.section__title,.section__subtitle{
+
+  margin-left: 280px;
+}
+
 .about__description {
   text-align: center;
   margin-bottom: var(--mb-2-5);
+}
+.about_data{
+
+  margin-right: 500px;
 }
 
 .about__info {
