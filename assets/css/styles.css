@@ -268,7 +268,7 @@ body.dark-theme {
 
 .nav__logo-circle {
   border-radius: 100%;
-  background-image: url("");
+  background-image: url("/assets/img/favicon.webp");
   background-size: cover;
 }
 
